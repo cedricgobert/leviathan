@@ -20,6 +20,7 @@
 #define _class_header
 
 #include <stddef.h>
+#include <stdarg.h>
 
 
 typedef struct Class Class;
